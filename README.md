@@ -1,4 +1,4 @@
-## Overview
+## Summary
 
 During the period December 2017 - March 2018, Kaggle held a competition called [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview). The goal was to identify and classify online toxic comments at Wikipedia. A full description of this competition can be found on the Kaggle site.
 
