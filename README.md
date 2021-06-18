@@ -1,3 +1,9 @@
+## Introduction
+
+During the period December 2017 - March 2018, Kaggle held a competition called Toxic Comment Classification Challenge. The goal was to identify and classify online toxic comments at Wikipedia. A full description of this competition is below.
+
+For processing the data, text vectorization or text embedding was used in two alternate solutions. For modeling the data, an ensemble (including gradient boosting, random forest, and logistic regresstion) or deep learning (LSTM) was used in the solutions.
+
 ## Description of Competition (from Kaggle site)
 
 Discussing things you care about can be difficult. The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. Platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments.
