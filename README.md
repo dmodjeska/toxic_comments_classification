@@ -2,7 +2,9 @@
 
 During the period December 2017 - March 2018, Kaggle held a competition called [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview). The goal was to identify and classify online toxic comments at Wikipedia. A full description of this competition can be found on the Kaggle site.
 
-For processing the data, text vectorization or text embedding was used in two alternate solutions. For modeling the data, an ensemble (including gradient boosting, random forest, and logistic regresstion) or deep learning (LSTM) was used in the solutions.
+Two of the solutions in this repo use NLP. The first solution uses text vectorization with classic machine learning - an ensemble of gradient boosting, random forests, and logistic regression. The second solution uses word embeddings with deep learning (an LSTM). 
+
+The other two solutions in this repo use text statistics. The first solution uses classic machine learning - an ensemble of gradient boosting, random forests, logistic regression, and a support vector machine. The second solution uses deep learning (an MLP). 
 
 ## Description of Competition (from Kaggle site)
 
